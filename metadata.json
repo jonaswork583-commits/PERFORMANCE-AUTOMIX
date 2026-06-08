@@ -1,0 +1,8 @@
+{
+  "name": "AEG Media | Automix Performance",
+  "description": "Relatório de performance de tráfego pago para Automix - Análise Mensal do Mês Completo",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
